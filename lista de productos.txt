@@ -1,0 +1,45 @@
+procesador {id: 1, marca: 'intel', modelo: 'i3 12300', precio: 150, stock: 3}
+procesador {id: 2, marca: 'intel', modelo: 'i5 12600', precio: 300, stock: 4}
+procesador {id: 3, marca: 'intel', modelo: 'i5 13600', precio: 400, stock: 6}
+procesador {id: 4, marca: 'intel', modelo: 'i7 12700', precio: 390, stock: 7}
+procesador {id: 5, marca: 'intel', modelo: 'i7 13700', precio: 480, stock: 3}
+procesador {id: 6, marca: 'intel', modelo: 'i9 12900', precio: 500, stock: 8}
+procesador {id: 7, marca: 'intel', modelo: 'i9 13900', precio: 590, stock: 7}
+procesador {id: 8, marca: 'AMD', modelo: 5500, precio: 330, stock: 10}
+procesador {id: 9, marca: 'AMD', modelo: 5700, precio: 400, stock: 5}
+procesador {id: 10, marca: 'AMD', modelo: 5900, precio: 390, stock: 4}
+procesador {id: 11, marca: 'AMD', modelo: 7500, precio: 480, stock: 3}
+procesador {id: 12, marca: 'AMD', modelo: 7700, precio: 570, stock: 7}
+procesador {id: 13, marca: 'AMD', modelo: 7900, precio: 690, stock: 2}
+motherboard {id: 14, marca: 'Asus', socket: 1200, chipset: 'z690', precio: 350, …}
+motherboard {id: 15, marca: 'Asus', socket: 1200, chipset: 'b660', precio: 250, …}
+motherboard {id: 16, marca: 'Asus', socket: 1200, chipset: 'h670', precio: 270, …}
+motherboard {id: 17, marca: 'Asus', socket: 1700, chipset: 'z790', precio: 540, …}
+motherboard {id: 18, marca: 'Asus', socket: 'am4', chipset: 'a520', precio: 240, …}
+motherboard {id: 19, marca: 'Asus', socket: 'am4', chipset: 'b550', precio: 340, …}
+motherboard {id: 20, marca: 'Asus', socket: 'am4', chipset: 'x570', precio: 350, …}
+motherboard {id: 21, marca: 'Asus', socket: 'am5', chipset: 'z590', precio: 490, …}
+memoriaRam {id: 22, tipo: 'ddr4', marca: 'kingston', tamaño: '8gb', precio: 50, …}
+memoriaRam {id: 23, tipo: 'ddr4', marca: 'kingston', tamaño: '16gb', precio: 70, …}
+memoriaRam {id: 24, tipo: 'ddr4', marca: 'kingston', tamaño: '24gb', precio: 80, …}
+memoriaRam {id: 25, tipo: 'ddr4', marca: 'kingston', tamaño: '32gb', precio: 120, …}
+memoriaRam {id: 26, tipo: 'ddr5', marca: 'kingston', tamaño: '16gb', precio: 95, …}
+memoriaRam {id: 27, tipo: 'ddr5', marca: 'kingston', tamaño: '32gb', precio: 150, …}
+PlacaVideo {id: 28, fabricante: 'nvidia', marca: 'msi', modelo: '3060ti', precio: 450, …}
+PlacaVideo {id: 29, fabricante: 'nvidia', marca: 'msi', modelo: '3070ti', precio: 650, …}
+PlacaVideo {id: 30, fabricante: 'nvidia', marca: 'msi', modelo: '3080ti', precio: 760, …}
+PlacaVideo {id: 31, fabricante: 'nvidia', marca: 'msi', modelo: '3090ti', precio: 1200, …}
+PlacaVideo {id: 32, fabricante: 'nvidia', marca: 'msi', modelo: '3070', precio: 590, …}
+PlacaVideo {id: 33, fabricante: 'nvidia', marca: 'msi', modelo: '3090', precio: 900, …}
+fuente {id: 34, marca: 'corsair', watts: 650, precio: 250, stock: 15}
+fuente {id: 35, marca: 'corsair', watts: 750, precio: 380, stock: 14}
+fuente {id: 36, marca: 'corsair', watts: 850, precio: 460, stock: 25}
+fuente {id: 37, marca: 'corsair', watts: 1200, precio: 580, stock: 4}
+almacenamiento {id: 38, tipo: 'm2', marca: 'WD', tamaño: '120gb', precio: 97, …}
+almacenamiento {id: 39, tipo: 'm2', marca: 'WD', tamaño: '480gb', precio: 120, …}
+almacenamiento {id: 40, tipo: 'm2', marca: 'WD', tamaño: '1020gb', precio: 250, …}
+almacenamiento {id: 41, tipo: 'ssd', marca: 'WD', tamaño: '256gb', precio: 84, …}
+almacenamiento {id: 42, tipo: 'ssd', marca: 'WD', tamaño: '480gb', precio: 109, …}
+almacenamiento {id: 43, tipo: 'ssd', marca: 'WD', tamaño: '1020gb', precio: 197, …}
+gabinete {id: 44, marca: 'thermaltake', modelo: 's100tg', precio: 147, stock: 12}
+gabinete {id: 45, marca: 'thermaltake', modelo: 's100tg white', precio: 147, stock: 12}
